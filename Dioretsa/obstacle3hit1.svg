@@ -1,0 +1,304 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!--Generator: Xara Designer (www.xara.com), SVG filter version: 4.0.0.1-->
+<svg stroke-width="0.501" stroke-linejoin="bevel" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" version="1.1" overflow="visible" width="600pt" height="600pt" viewBox="0 0 600 600">
+ <defs>
+  <marker id="DefaultArrow2" markerUnits="strokeWidth" viewBox="0 0 1 1" markerWidth="1" markerHeight="1" overflow="visible" orient="auto">
+   <!-- REF_ARROW_STRAIGHT (-2) -->
+   <g transform="scale(0.0092592592)">
+    <!-- 1/108 -->
+    <path d="M -9 54 L -9 -54 L 117 0 z"/>
+   </g>
+  </marker>
+  <marker id="DefaultArrow3" markerUnits="strokeWidth" viewBox="0 0 1 1" markerWidth="1" markerHeight="1" overflow="visible" orient="auto">
+   <!-- REF_ARROW_ANGLED -->
+   <g transform="scale(0.0092592592)">
+    <path d="M -27 54 L -9 0 L -27 -54 L 135 0 z"/>
+   </g>
+  </marker>
+  <marker id="DefaultArrow4" markerUnits="strokeWidth" viewBox="0 0 1 1" markerWidth="1" markerHeight="1" overflow="visible" orient="auto">
+   <!-- REF_ARROW_ROUNDED -->
+   <g transform="scale(0.0092592592)">
+    <path d="M -9,0 L -9,-45 C -9,-51.708 2.808,-56.580 9,-54 L 117,-9 C 120.916,-7.369 126.000,-4.242 126,0 C 126,4.242 120.916,7.369 117,9 L 9,54 C 2.808,56.580 -9,51.708 -9,45 z"/>
+   </g>
+  </marker>
+  <marker id="DefaultArrow5" markerUnits="strokeWidth" viewBox="0 0 1 1" markerWidth="1" markerHeight="1" overflow="visible" orient="auto">
+   <!-- REF_ARROW_SPOT -->
+   <g transform="scale(0.0092592592)">
+    <path d="M -54, 0 C -54,29.807 -29.807,54 0,54 C 29.807,54 54,29.807 54,0 C 54,-29.807 29.807,-54 0,-54 C -29.807,-54 -54,-29.807 -54,0 z"/>
+   </g>
+  </marker>
+  <marker id="DefaultArrow6" markerUnits="strokeWidth" viewBox="0 0 1 1" markerWidth="1" markerHeight="1" overflow="visible" orient="auto">
+   <!-- REF_ARROW_DIAMOND -->
+   <g transform="scale(0.0092592592)">
+    <path d="M -63,0 L 0,63 L 63,0 L 0,-63 z"/>
+   </g>
+  </marker>
+  <marker id="DefaultArrow7" markerUnits="strokeWidth" viewBox="0 0 1 1" markerWidth="1" markerHeight="1" overflow="visible" orient="auto">
+   <!-- REF_ARROW_FEATHER -->
+   <g transform="scale(0.0092592592)">
+    <path d="M 18,-54 L 108,-54 L 63,0 L 108,54 L 18, 54 L -36,0 z"/>
+   </g>
+  </marker>
+  <marker id="DefaultArrow8" markerUnits="strokeWidth" viewBox="0 0 1 1" markerWidth="1" markerHeight="1" overflow="visible" orient="auto">
+   <!-- REF_ARROW_FEATHER2 -->
+   <g transform="scale(0.0092592592)">
+    <path d="M -36,0 L 18,-54 L 54,-54 L 18,-18 L 27,-18 L 63,-54 L 99,-54 L 63,-18 L 72,-18 L 108,-54 L 144,-54 L 90,0 L 144,54 L 108,54 L 72,18 L 63,18 L 99,54 L 63,54 L 27,18 L 18,18 L 54,54 L 18,54 z"/>
+   </g>
+  </marker>
+  <marker id="DefaultArrow9" markerUnits="strokeWidth" viewBox="0 0 1 1" markerWidth="1" markerHeight="1" overflow="visible" orient="auto">
+   <!-- REF_ARROW_HOLLOWDIAMOND -->
+   <g transform="scale(0.0092592592)">
+    <path d="M 0,45 L -45,0 L 0, -45 L 45, 0 z M 0, 63 L-63, 0 L 0, -63 L 63, 0 z"/>
+   </g>
+  </marker>
+  <filter id="StainedFilter">
+   <feBlend mode="multiply" in2="BackgroundImage" in="SourceGraphic" result="blend"/>
+   <feComposite in="blend" in2="SourceAlpha" operator="in" result="comp"/>
+  </filter>
+  <filter id="BleachFilter">
+   <feBlend mode="screen" in2="BackgroundImage" in="SourceGraphic" result="blend"/>
+   <feComposite in="blend" in2="SourceAlpha" operator="in" result="comp"/>
+  </filter>
+  <filter id="InvertTransparencyBitmapFilter">
+   <feComponentTransfer>
+    <feFuncR type="gamma" amplitude="1.055" exponent=".416666666" offset="-0.055"/>
+    <feFuncG type="gamma" amplitude="1.055" exponent=".416666666" offset="-0.055"/>
+    <feFuncB type="gamma" amplitude="1.055" exponent=".416666666" offset="-0.055"/>
+   </feComponentTransfer>
+   <feComponentTransfer>
+    <feFuncR type="linear" slope="-1" intercept="1"/>
+    <feFuncG type="linear" slope="-1" intercept="1"/>
+    <feFuncB type="linear" slope="-1" intercept="1"/>
+    <feFuncA type="linear" slope="1" intercept="0"/>
+   </feComponentTransfer>
+   <feComponentTransfer>
+    <feFuncR type="gamma" amplitude="1" exponent="2.4" offset="0"/>
+    <feFuncG type="gamma" amplitude="1" exponent="2.4" offset="0"/>
+    <feFuncB type="gamma" amplitude="1" exponent="2.4" offset="0"/>
+   </feComponentTransfer>
+  </filter>
+  <radialGradient id="RadialGradient" gradientUnits="userSpaceOnUse" cx="0" cy="0" r="27.75" gradientTransform="translate(209.397 441.144)">
+   <stop offset="0" stop-color="#7f0000"/>
+   <stop offset="0.164700001478195" stop-color="#7f0000"/>
+   <stop offset="1" stop-color="#7f0000"/>
+  </radialGradient>
+  <radialGradient id="RadialGradient_1" gradientUnits="userSpaceOnUse" cx="0" cy="0" r="18.45" gradientTransform="translate(239.397 475.343)">
+   <stop offset="0" stop-color="#7f0000"/>
+   <stop offset="0.164700001478195" stop-color="#7f0000"/>
+   <stop offset="1" stop-color="#7f0000"/>
+  </radialGradient>
+  <radialGradient id="RadialGradient_2" gradientUnits="userSpaceOnUse" cx="0" cy="0" r="23.7" gradientTransform="translate(272.397 343.344)">
+   <stop offset="0" stop-color="#7f0000"/>
+   <stop offset="0.164700001478195" stop-color="#7f0000"/>
+   <stop offset="1" stop-color="#7f0000"/>
+  </radialGradient>
+  <radialGradient id="RadialGradient_3" gradientUnits="userSpaceOnUse" cx="0" cy="0" r="28.2" gradientTransform="translate(196.196 344.556)">
+   <stop offset="0" stop-color="#7f0000"/>
+   <stop offset="0.164700001478195" stop-color="#7f0000"/>
+   <stop offset="1" stop-color="#7f0000"/>
+  </radialGradient>
+  <radialGradient id="RadialGradient_4" gradientUnits="userSpaceOnUse" cx="0" cy="0" r="22.2" gradientTransform="translate(357 364.344)">
+   <stop offset="0" stop-color="#7f0000"/>
+   <stop offset="0.164700001478195" stop-color="#7f0000"/>
+   <stop offset="1" stop-color="#7f0000"/>
+  </radialGradient>
+  <radialGradient id="RadialGradient_5" gradientUnits="userSpaceOnUse" cx="0" cy="0" r="26.85" gradientTransform="translate(343.2 433.343)">
+   <stop offset="0" stop-color="#7f0000"/>
+   <stop offset="0.164700001478195" stop-color="#7f0000"/>
+   <stop offset="1" stop-color="#7f0000"/>
+  </radialGradient>
+  <radialGradient id="RadialGradient_6" gradientUnits="userSpaceOnUse" cx="0" cy="0" r="19.65" gradientTransform="translate(342 483.144)">
+   <stop offset="0" stop-color="#7f0000"/>
+   <stop offset="0.164700001478195" stop-color="#7f0000"/>
+   <stop offset="1" stop-color="#7f0000"/>
+  </radialGradient>
+  <radialGradient id="RadialGradient_7" gradientUnits="userSpaceOnUse" cx="0" cy="0" r="21.142" gradientTransform="translate(390.588 403.944) scale(1 1.00005)">
+   <stop offset="0" stop-color="#7f0000"/>
+   <stop offset="0.164700001478195" stop-color="#7f0000"/>
+   <stop offset="1" stop-color="#7f0000"/>
+  </radialGradient>
+  <radialGradient id="RadialGradient_8" gradientUnits="userSpaceOnUse" cx="0" cy="0" r="18.6" gradientTransform="translate(417 361.944)">
+   <stop offset="0" stop-color="#7f0000"/>
+   <stop offset="0.164700001478195" stop-color="#7f0000"/>
+   <stop offset="1" stop-color="#7f0000"/>
+  </radialGradient>
+  <radialGradient id="RadialGradient_9" gradientUnits="userSpaceOnUse" cx="0" cy="0" r="23.7" gradientTransform="translate(399.588 484.343)">
+   <stop offset="0" stop-color="#7f0000"/>
+   <stop offset="0.164700001478195" stop-color="#7f0000"/>
+   <stop offset="1" stop-color="#7f0000"/>
+  </radialGradient>
+  <linearGradient id="LinearGradient" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="309.302" y2="0" gradientTransform="translate(199.342 361.043)">
+   <stop offset="0" stop-color="#7f0000"/>
+   <stop offset="0.815699994564056" stop-color="#7f0000"/>
+   <stop offset="0.980400025844574" stop-color="#7f0000"/>
+   <stop offset="1" stop-color="#7f0000"/>
+  </linearGradient>
+  <linearGradient id="LinearGradient_1" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="309.302" y2="0" gradientTransform="translate(199.342 464.843)">
+   <stop offset="0" stop-color="#7f0000"/>
+   <stop offset="0.815699994564056" stop-color="#7f0000"/>
+   <stop offset="0.980400025844574" stop-color="#7f0000"/>
+   <stop offset="1" stop-color="#7f0000"/>
+  </linearGradient>
+  <linearGradient id="LinearGradient_2" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="309.302" y2="0" gradientTransform="translate(199.342 343.043)">
+   <stop offset="0" stop-color="#7f0000"/>
+   <stop offset="0.815699994564056" stop-color="#7f0000"/>
+   <stop offset="0.980400025844574" stop-color="#7f0000"/>
+   <stop offset="1" stop-color="#7f0000"/>
+  </linearGradient>
+  <linearGradient id="LinearGradient_3" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="358.5" y2="0" gradientTransform="translate(164.544 341.243)">
+   <stop offset="0" stop-color="#7f0000"/>
+   <stop offset="0.815699994564056" stop-color="#7f0000"/>
+   <stop offset="0.980400025844574" stop-color="#7f0000"/>
+   <stop offset="1" stop-color="#7f0000"/>
+  </linearGradient>
+  <linearGradient id="LinearGradient_4" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="358.5" y2="0" gradientTransform="translate(164.544 341.543)">
+   <stop offset="0" stop-color="#7f0000"/>
+   <stop offset="0.815699994564056" stop-color="#7f0000"/>
+   <stop offset="0.980400025844574" stop-color="#7f0000"/>
+   <stop offset="1" stop-color="#7f0000"/>
+  </linearGradient>
+  <linearGradient id="LinearGradient_5" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="309.302" y2="0" gradientTransform="translate(199.342 335.075)">
+   <stop offset="0" stop-color="#7f0000"/>
+   <stop offset="0.815699994564056" stop-color="#7f0000"/>
+   <stop offset="0.980400025844574" stop-color="#7f0000"/>
+   <stop offset="1" stop-color="#7f0000"/>
+  </linearGradient>
+  <linearGradient id="LinearGradient_6" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="358.5" y2="0" gradientTransform="translate(164.544 335.075)">
+   <stop offset="0" stop-color="#7f0000"/>
+   <stop offset="0.815699994564056" stop-color="#7f0000"/>
+   <stop offset="0.980400025844574" stop-color="#7f0000"/>
+   <stop offset="1" stop-color="#7f0000"/>
+  </linearGradient>
+  <linearGradient id="LinearGradient_7" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="309.302" y2="0" gradientTransform="translate(199.342 338.171)">
+   <stop offset="0" stop-color="#7f0000"/>
+   <stop offset="0.815699994564056" stop-color="#7f0000"/>
+   <stop offset="0.980400025844574" stop-color="#7f0000"/>
+   <stop offset="1" stop-color="#7f0000"/>
+  </linearGradient>
+  <linearGradient id="LinearGradient_8" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="358.5" y2="0" gradientTransform="translate(164.544 338.171)">
+   <stop offset="0" stop-color="#7f0000"/>
+   <stop offset="0.815699994564056" stop-color="#7f0000"/>
+   <stop offset="0.980400025844574" stop-color="#7f0000"/>
+   <stop offset="1" stop-color="#7f0000"/>
+  </linearGradient>
+  <linearGradient id="LinearGradient_9" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="309.302" y2="0" gradientTransform="translate(199.342 462.743)">
+   <stop offset="0" stop-color="#7f0000"/>
+   <stop offset="0.815699994564056" stop-color="#7f0000"/>
+   <stop offset="0.980400025844574" stop-color="#7f0000"/>
+   <stop offset="1" stop-color="#7f0000"/>
+  </linearGradient>
+  <linearGradient id="LinearGradient_10" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="358.5" y2="0" gradientTransform="translate(164.544 462.743)">
+   <stop offset="0" stop-color="#7f0000"/>
+   <stop offset="0.815699994564056" stop-color="#7f0000"/>
+   <stop offset="0.980400025844574" stop-color="#7f0000"/>
+   <stop offset="1" stop-color="#7f0000"/>
+  </linearGradient>
+  <linearGradient id="LinearGradient_11" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="309.302" y2="0" gradientTransform="translate(199.342 385.344)">
+   <stop offset="0" stop-color="#7f0000"/>
+   <stop offset="0.815699994564056" stop-color="#7f0000"/>
+   <stop offset="0.980400025844574" stop-color="#7f0000"/>
+   <stop offset="1" stop-color="#7f0000"/>
+  </linearGradient>
+  <linearGradient id="LinearGradient_12" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="358.204" y2="0" gradientTransform="translate(164.696 385.344)">
+   <stop offset="0" stop-color="#7f0000"/>
+   <stop offset="0.815699994564056" stop-color="#7f0000"/>
+   <stop offset="0.980400025844574" stop-color="#7f0000"/>
+   <stop offset="1" stop-color="#7f0000"/>
+  </linearGradient>
+  <linearGradient id="LinearGradient_13" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="95.4" y2="0" gradientTransform="translate(396.288 385.344)">
+   <stop offset="0" stop-color="#7f0000"/>
+   <stop offset="0.815699994564056" stop-color="#7f0000"/>
+   <stop offset="0.980400025844574" stop-color="#7f0000"/>
+   <stop offset="1" stop-color="#7f0000"/>
+  </linearGradient>
+  <linearGradient id="LinearGradient_14" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="212.396" y2="0" gradientTransform="translate(132.592 562.791)">
+   <stop offset="0" stop-color="#ffffff"/>
+   <stop offset="6.27000033855438E-02" stop-color="#ffffff"/>
+   <stop offset="0.164700001478195" stop-color="#ffffff"/>
+   <stop offset="1" stop-color="#ffffff"/>
+  </linearGradient>
+  <linearGradient id="LinearGradient_15" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="212.396" y2="0" gradientTransform="translate(132.592 396.827)">
+   <stop offset="0" stop-color="#ffffff"/>
+   <stop offset="6.27000033855438E-02" stop-color="#ffffff"/>
+   <stop offset="0.164700001478195" stop-color="#ffffff"/>
+   <stop offset="1" stop-color="#ffffff"/>
+  </linearGradient>
+  <linearGradient id="LinearGradient_16" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="309.302" y2="0" gradientTransform="translate(199.342 599.846)">
+   <stop offset="0" stop-color="#7f0000"/>
+   <stop offset="0.815699994564056" stop-color="#7f0000"/>
+   <stop offset="0.980400025844574" stop-color="#7f0000"/>
+   <stop offset="1" stop-color="#7f0000"/>
+  </linearGradient>
+  <linearGradient id="LinearGradient_17" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="212.396" y2="0" gradientTransform="translate(132.592 599.846)">
+   <stop offset="0" stop-color="#ffffff"/>
+   <stop offset="6.27000033855438E-02" stop-color="#ffffff"/>
+   <stop offset="0.164700001478195" stop-color="#ffffff"/>
+   <stop offset="1" stop-color="#ffffff"/>
+  </linearGradient>
+ </defs>
+ <g id="Document" fill="none" stroke="black" font-family="Times New Roman" font-size="16" transform="scale(1 -1)">
+  <g id="Spread" transform="translate(0 -600)">
+   <g id="SVG Document">
+    <g id="ClipView" stroke="none">
+     <path d="M 163.8,300.6 L 436.2,300.6 L 436.2,613.644 L 163.8,613.644 L 163.8,300.6"/>
+     <clipPath id="ClipPath">
+      <path d="M 163.8,300.6 L 163.8,613.644 L 436.2,613.644 L 436.2,300.6 L 163.8,300.6 Z"/>
+     </clipPath>
+     <g clip-path="url(#ClipPath)">
+      <path d="M 273.588,612.144 L 286.788,612.144 C 292.8,614.148 298.2,613.944 303,611.544 C 305.004,610.74 309.204,607.74 315.6,602.544 C 326.004,594.144 337.008,581.544 348.6,564.744 C 360.6,548.34 371.4,535.536 381,526.344 C 387.792,520.343 399.6,513.347 416.4,505.343 C 422.4,500.94 426.6,496.739 429,492.743 C 431.4,487.944 432.204,481.944 431.4,474.743 C 430.2,462.335 427.992,449.339 424.8,435.743 C 422.796,426.539 422.004,420.947 422.4,418.944 C 422.796,416.543 424.8,413.352 428.4,409.344 C 431.196,404.94 432.996,401.34 433.8,398.544 C 436.2,388.944 436.8,378.744 435.6,367.944 C 434.004,355.548 429.396,347.148 421.8,342.744 C 416.208,339.54 406.8,337.14 393.6,335.544 C 387.204,335.136 382.596,334.944 379.8,334.944 C 374.604,334.548 370.2,333.348 366.6,331.344 C 359.4,327.348 348.804,320.34 334.8,310.344 C 324,303.552 311.208,300.348 296.4,300.744 C 291.192,301.14 275.604,303.336 249.6,307.344 C 234.396,308.94 224.208,311.34 219,314.544 C 210.6,323.34 203.796,329.34 198.6,332.544 C 192.6,335.34 188.004,337.548 184.8,339.144 C 179.208,341.94 175.404,345.348 173.4,349.344 C 172.596,351.348 171.996,353.544 171.6,355.944 C 172.008,359.148 172.008,361.548 171.6,363.144 C 168,379.548 165.804,391.74 165,399.744 C 162.996,412.944 164.4,424.944 169.2,435.744 C 176.4,450.54 180.204,459.744 180.6,463.344 C 184.596,489.348 187.596,504.744 189.6,509.544 C 192.396,516.744 198,524.748 206.4,533.544 C 216.396,542.748 223.392,549.552 227.4,553.944 C 234.192,560.352 242.196,569.544 251.4,581.544 C 255.792,588.744 258.996,594.336 261,598.344 C 265.392,605.544 269.592,610.152 273.588,612.144 Z" fill="#81675c" stroke-width="12" stroke-linejoin="miter" marker-start="none" marker-end="none" stroke-miterlimit="79.8403193612775"/>
+      <path d="M 325.8,563.544 C 327.396,557.136 329.604,552.144 332.4,548.544 L 336,545.544 C 335.208,524.34 336.6,509.748 340.2,501.743 C 341.796,497.747 346.596,489.539 354.6,477.143 C 360.6,467.147 364.596,458.543 366.6,451.343 C 369.804,439.343 371.604,429.947 372,423.143 C 372.792,413.147 371.004,403.943 366.6,395.543 C 363.804,389.543 360,381.335 355.2,370.944 C 350.4,362.543 344.796,356.352 338.4,352.344 C 336.792,360.744 336,370.344 336,381.144 C 335.208,368.352 330,349.944 320.4,325.944 L 312.6,325.944 L 313.2,366.144 C 328.404,374.148 338.196,384.947 342.6,398.544 C 345,406.14 346.2,421.74 346.2,445.344 C 345.792,452.544 343.2,460.74 338.4,469.944 C 331.992,483.144 328.2,491.352 327,494.544 L 325.8,498.144 L 325.8,563.544 Z" fill="#8c8d8a" stroke-width="12" stroke-linejoin="miter" marker-start="none" marker-end="none" stroke-miterlimit="79.8403193612775"/>
+      <path d="M 360,510.144 L 369.6,504.144 C 389.604,491.352 401.004,472.739 403.8,448.344 L 402.6,417.144 L 395.4,434.544 L 395.999,448.343 C 395.999,462.347 392.999,473.543 386.999,481.944 C 377.4,491.94 369.203,500.544 362.4,507.743 L 359.999,510.143 Z" fill="#8c8d8a" stroke-width="12" stroke-linejoin="miter" marker-start="none" marker-end="none" stroke-miterlimit="79.8403193612775"/>
+      <path d="M 281.4,322.344 C 250.2,316.74 228.792,314.748 217.2,316.344 L 208.8,323.544 C 211.596,324.744 219.6,327.54 232.8,331.944 C 250.008,337.548 264.204,343.344 275.4,349.344 L 294,357.744 L 289.2,348.744 L 286.2,335.544 L 281.4,322.344 Z" fill="#8c8d8a" stroke-width="12" stroke-linejoin="miter" marker-start="none" marker-end="none" stroke-miterlimit="79.8403193612775"/>
+      <path d="M 339,348.743 C 356.604,350.339 370.404,359.94 380.4,377.543 L 382.8,365.543 C 382.8,355.547 379.404,346.139 372.6,337.343 C 373.404,342.143 373.2,346.547 372,350.543 C 367.596,349.739 362.4,346.944 356.4,342.143 C 348.792,335.747 343.8,331.943 341.4,330.743 L 339,348.743 Z" fill="#8c8d8a" stroke-width="12" stroke-linejoin="miter" marker-start="none" marker-end="none" stroke-miterlimit="79.8403193612775"/>
+      <path d="M 267,581.544 C 273.396,586.74 279.792,589.14 286.2,588.744 C 295.404,588.336 301.404,583.536 304.2,574.344 C 305.4,569.544 306,560.94 306,548.544 L 306.6,532.944 C 298.932,542.148 295.332,549.348 295.8,554.544 L 292.8,528.744 L 289.8,519.143 L 288.6,518.543 L 285,541.944 C 283.8,557.544 281.592,566.94 278.4,570.144 C 277.596,568.944 273.396,557.352 265.8,535.344 C 261.396,522.551 254.796,513.551 246,508.343 C 236.795,503.135 231.203,495.143 229.2,484.343 C 228.396,479.135 228.396,468.347 229.2,451.944 C 229.596,449.94 231.396,443.748 234.599,433.343 C 236.999,426.143 237.395,420.144 235.799,415.344 C 234.203,409.74 231.395,406.548 227.399,405.744 C 221.795,405.744 216.792,405.54 212.399,405.144 L 211.2,405.144 C 202.8,409.14 196.992,412.944 193.8,416.544 C 189.395,420.948 186.804,427.14 185.999,435.144 C 185.603,438.348 185.999,441.948 187.199,445.944 L 189.599,454.944 C 188.795,466.944 188.999,475.944 190.199,481.944 C 190.595,483.948 193.991,492.348 200.399,507.144 C 200.795,507.948 201.599,508.74 202.8,509.544 C 204.396,510.744 205.2,511.548 205.2,511.944 L 205.8,514.344 C 211.8,509.94 221.795,508.944 235.8,511.344 C 242.592,512.94 249,516.744 255,522.744 C 260.603,528.744 264,534.948 265.2,541.344 C 252,538.944 242.399,538.14 236.399,538.944 L 235.2,547.344 C 240.792,551.748 246.599,557.748 252.599,565.344 C 259.391,573.744 264.192,579.144 267,581.544 Z" fill="#aa907d" stroke-width="12" stroke-linejoin="miter" marker-start="none" marker-end="none" stroke-miterlimit="79.8403193612775"/>
+      <path d="M 316.2,462.743 C 315.792,459.947 313.596,455.939 309.6,450.743 C 306.396,445.944 304.8,442.139 304.8,439.343 C 315.6,452.135 322.2,465.947 324.6,480.743 C 326.208,467.135 325.8,456.947 323.4,450.143 C 321.792,445.343 318.396,440.939 313.199,436.943 C 306.395,431.351 301.991,427.151 299.999,424.343 C 294.395,416.747 286.403,402.743 275.999,382.343 C 265.595,366.347 252.599,359.543 236.999,361.943 C 248.207,361.547 255.791,370.151 259.799,387.743 L 261.599,389.543 C 263.999,391.943 265.199,394.943 265.199,398.543 C 271.595,397.343 276.995,400.739 281.4,408.743 C 285,415.139 286.595,421.739 286.199,428.543 L 275.999,426.743 C 278.795,431.543 284.795,440.135 293.999,452.543 C 301.595,462.539 306.395,470.135 308.399,475.343 L 313.199,488.543 C 316.391,475.343 317.399,466.739 316.199,462.743 Z" fill="#aa907d" stroke-width="12" stroke-linejoin="miter" marker-start="none" marker-end="none" stroke-miterlimit="79.8403193612775"/>
+      <path d="M 210.588,405.144 C 200.592,403.548 194.592,398.352 192.588,389.544 C 187.392,391.944 182.988,397.344 179.388,405.744 C 183,405.348 193.392,405.144 210.588,405.144 Z" fill="#aa907d" stroke-width="12" stroke-linejoin="miter" marker-start="none" marker-end="none" stroke-miterlimit="79.8403193612775"/>
+      <path d="M 272.4,440.544 L 272.4,425.544 L 269.4,424.944 L 267.588,418.344 Z" fill="#aa907d" stroke-width="12" stroke-linejoin="miter" marker-start="none" marker-end="none" stroke-miterlimit="79.8403193612775"/>
+      <path d="M 176.4,406.344 C 172.404,402.744 169.992,395.544 169.2,384.744 L 168.6,378.744 C 165.804,390.744 164.208,401.34 163.8,410.544 C 169.392,408.144 173.592,406.74 176.4,406.344 Z" fill="#aa907d" stroke-width="12" stroke-linejoin="miter" marker-start="none" marker-end="none" stroke-miterlimit="79.8403193612775"/>
+      <path d="M 289.8,519.143 L 288.6,517.944 C 281.4,505.944 277.008,490.548 275.4,471.743 L 272.4,462.143 C 271.595,455.351 271.595,448.139 272.4,440.543 L 267.6,418.343 C 264.396,410.339 262.8,403.943 262.8,399.143 L 265.2,398.543 C 265.2,394.944 264,391.944 261.599,389.543 L 259.799,387.743 C 257.795,385.343 254.207,383.135 248.999,381.144 C 242.603,375.947 235.799,368.748 228.599,359.544 C 224.207,354.336 217.799,346.14 209.399,334.944 L 203.399,328.944 L 198.599,332.544 C 192.599,335.34 188.003,337.548 184.799,339.144 C 179.207,341.94 175.403,345.348 173.399,349.344 C 172.595,351.348 171.995,353.544 171.599,355.944 C 172.007,359.148 172.007,361.547 171.599,363.144 L 168.599,378.743 L 169.199,384.743 C 169.991,395.543 172.403,402.743 176.399,406.343 L 179.399,405.743 C 182.999,397.343 187.404,391.944 192.599,389.543 C 197.807,387.143 204.599,387.947 212.999,391.944 C 228.995,398.747 239.999,408.743 245.999,421.944 C 248.003,426.347 249.203,432.947 249.599,441.743 C 250.403,451.343 251.603,458.34 253.2,462.743 C 259.992,480.335 271.8,498.947 288.6,518.543 L 289.8,519.143 Z" fill="#56443d" stroke-width="12" stroke-linejoin="miter" marker-start="none" marker-end="none" stroke-miterlimit="79.8403193612775"/>
+      <path d="M 325.8,563.544 L 326.4,592.344 C 333.192,585.552 340.596,576.348 348.6,564.744 C 360.6,548.34 371.4,535.536 381,526.344 C 387.792,520.344 399.6,513.348 416.4,505.344 C 422.4,500.94 426.6,496.74 429,492.744 C 431.4,487.944 432.204,481.944 431.4,474.744 C 430.2,462.336 427.992,449.34 424.8,435.744 C 422.796,426.54 422.004,420.947 422.4,418.944 C 422.796,416.543 424.8,413.352 428.4,409.344 C 431.196,404.94 432.996,401.34 433.8,398.544 C 436.2,388.944 436.8,378.744 435.6,367.944 C 434.004,355.548 429.396,347.148 421.8,342.744 C 416.208,339.54 406.8,337.14 393.6,335.544 L 375.6,334.344 L 379.2,345.144 C 383.604,359.148 385.8,371.352 385.8,381.743 L 385.8,388.944 C 390.6,401.352 393.6,414.552 394.8,428.544 C 398.004,422.544 400.403,417.335 402,412.944 L 402.6,417.144 L 402.6,419.544 C 404.208,427.548 404.604,437.136 403.8,448.344 C 401.004,472.74 389.604,491.34 369.6,504.144 L 360,510.144 C 353.604,517.74 349.596,526.14 348,535.344 C 346.8,540.948 346.2,550.944 346.2,565.344 L 336,552.144 L 336,545.544 L 332.4,548.544 C 329.592,552.144 327.396,557.148 325.8,563.544 Z" fill="#56443d" stroke-width="12" stroke-linejoin="miter" marker-start="none" marker-end="none" stroke-miterlimit="79.8403193612775"/>
+      <path d="M 292.8,528.744 L 295.8,554.544 C 295.332,549.348 298.932,542.148 306.6,532.944 C 307.404,524.94 309.396,510.947 312.6,490.944 L 313.2,488.544 L 308.4,475.343 C 306.396,470.135 301.596,462.551 294,452.543 C 284.796,440.135 278.796,431.543 276,426.743 L 272.4,425.543 L 272.4,440.543 C 271.596,448.139 271.596,455.339 272.4,462.143 L 283.2,491.543 C 283.992,493.547 285.996,501.947 289.2,516.743 L 289.2,518.543 L 289.8,519.143 L 292.8,528.744 Z" fill="#8c8d8a" stroke-width="12" stroke-linejoin="miter" marker-start="none" marker-end="none" stroke-miterlimit="79.8403193612775"/>
+      <path d="M 336,545.544 L 336,552.144 L 346.2,565.344 C 346.2,550.944 346.8,540.948 348,535.344 C 349.596,526.14 353.604,517.739 360,510.144 L 362.4,507.744 C 369.192,500.544 377.4,491.94 387,481.944 C 393,473.544 396,462.347 396,448.343 L 394.8,428.543 C 393.6,414.539 390.6,401.339 385.8,388.944 L 380.4,377.543 C 370.403,359.94 356.604,350.339 339,348.743 L 338.4,352.343 C 344.796,356.339 350.4,362.543 355.199,370.943 C 359.999,381.347 363.791,389.543 366.6,395.543 C 371.004,403.943 372.804,413.135 372,423.143 C 371.604,429.947 369.792,439.343 366.6,451.343 C 364.596,458.543 360.6,467.135 354.6,477.143 C 346.596,489.551 341.808,497.747 340.2,501.743 C 336.588,509.747 335.196,524.351 336,545.543 Z" fill="#464d53" stroke-width="12" stroke-linejoin="miter" marker-start="none" marker-end="none" stroke-miterlimit="79.8403193612775"/>
+      <path d="M 312.588,306.144 L 312.588,325.944 L 320.4,325.944 Z" fill="#464d53" stroke-width="12" stroke-linejoin="miter" marker-start="none" marker-end="none" stroke-miterlimit="79.8403193612775"/>
+      <path d="M 217.2,316.344 C 228.792,314.748 250.2,316.74 281.4,322.344 L 270,304.344 L 249.599,307.344 C 234.395,308.94 224.207,311.34 218.999,314.544 L 217.199,316.344 Z" fill="#464d53" stroke-width="12" stroke-linejoin="miter" marker-start="none" marker-end="none" stroke-miterlimit="79.8403193612775"/>
+      <path d="M 372,350.543 C 373.2,346.547 373.404,342.143 372.6,337.343 L 372,333.743 L 366.6,331.343 C 364.199,329.747 356.4,324.551 343.2,315.743 L 341.4,330.743 C 343.8,331.944 348.792,335.747 356.4,342.144 C 362.4,346.944 367.596,349.739 371.999,350.544 Z" fill="#464d53" stroke-width="12" stroke-linejoin="miter" marker-start="none" marker-end="none" stroke-miterlimit="79.8403193612775"/>
+      <path d="M 303,611.544 C 305.004,610.74 309.204,607.74 315.6,602.544 L 326.4,592.344 L 324.6,480.743 C 322.2,465.947 315.6,452.135 304.8,439.343 C 304.8,442.139 306.396,445.944 309.6,450.743 C 313.596,455.939 315.804,459.947 316.2,462.743 C 317.4,466.739 316.404,475.343 313.2,488.543 L 312.6,490.943 C 309.396,510.947 307.404,524.94 306.6,532.944 L 306,548.544 C 306,560.94 305.4,569.544 304.2,574.344 C 301.404,583.548 295.404,588.348 286.2,588.744 C 279.792,589.152 273.396,586.74 267,581.544 C 264.204,579.144 259.403,573.744 252.599,565.344 C 246.599,557.748 240.804,551.748 235.2,547.344 L 234.587,561.144 L 251.388,581.544 C 255.78,588.744 258.983,594.336 260.988,598.344 C 265.392,605.544 269.592,610.14 273.588,612.144 L 286.788,612.144 C 292.8,614.148 298.2,613.944 303,611.544 Z" fill="#cbbcb0" stroke-width="12" stroke-linejoin="miter" marker-start="none" marker-end="none" stroke-miterlimit="79.8403193612775"/>
+      <path d="M 211.2,537.744 L 202.8,522.144 C 201.996,519.348 202.992,516.744 205.8,514.344 L 205.2,511.944 C 205.2,511.548 204.396,510.744 202.8,509.544 C 201.6,508.74 200.796,507.948 200.4,507.144 C 193.992,492.348 190.596,483.948 190.2,481.944 C 189,475.944 188.795,466.944 189.6,454.944 L 187.2,445.944 C 186,441.948 185.604,438.348 186,435.144 C 186.792,427.14 189.396,420.948 193.8,416.544 C 197.003,412.944 202.8,409.14 211.2,405.144 L 210.6,405.144 C 193.404,405.144 183,405.348 179.4,405.744 L 176.4,406.344 C 173.592,406.74 169.392,408.144 163.8,410.544 C 163.8,419.748 165.6,428.136 169.2,435.744 C 176.4,450.54 180.204,459.744 180.6,463.344 C 184.596,489.348 187.596,504.744 189.6,509.544 C 192.792,517.944 199.992,527.352 211.2,537.744 Z" fill="#cbbcb0" stroke-width="12" stroke-linejoin="miter" marker-start="none" marker-end="none" stroke-miterlimit="79.8403193612775"/>
+      <path d="M 211.2,537.744 L 234.6,561.144 L 236.4,538.944 C 242.4,538.152 252,538.944 265.2,541.344 C 264,534.948 260.592,528.744 255,522.744 C 249,516.744 242.592,512.94 235.8,511.344 C 221.796,508.944 211.8,509.94 205.8,514.344 C 202.992,516.744 201.996,519.348 202.8,522.144 L 211.2,537.744 Z" fill="#cbbcb0" stroke-width="12" stroke-linejoin="miter" marker-start="none" marker-end="none" stroke-miterlimit="79.8403193612775"/>
+      <path d="M 269.4,424.944 L 272.4,425.544 L 276,426.744 L 286.2,428.544 C 286.596,421.739 285,415.14 281.4,408.743 C 276.996,400.739 271.596,397.343 265.2,398.543 L 262.8,399.143 C 262.8,403.943 264.396,410.351 267.6,418.343 L 269.4,424.943 Z" fill="#cbbcb0" stroke-width="12" stroke-linejoin="miter" marker-start="none" marker-end="none" stroke-miterlimit="79.8403193612775"/>
+      <path d="M 307.2,395.543 C 310.572,407.543 312.372,418.44 312.6,428.243 L 312.6,306.143 L 320.4,325.943 C 330,349.943 335.195,368.351 336,381.143 C 336,370.343 336.792,360.743 338.4,352.343 L 343.199,315.743 C 339.995,312.947 337.199,311.135 334.799,310.343 C 324,303.551 311.207,300.347 296.4,300.743 L 270,304.343 L 281.4,322.343 L 286.199,335.543 L 289.199,348.743 L 296.4,362.543 C 302.4,378.947 306,389.94 307.199,395.543 Z" fill="#56443d" stroke-width="12" stroke-linejoin="miter" marker-start="none" marker-end="none" stroke-miterlimit="79.8403193612775"/>
+      <path d="M 204.588,467.544 L 213.588,467.544 C 219.192,467.94 221.796,464.135 221.388,456.144 C 220.98,447.744 217.788,443.352 211.788,442.944 C 204.192,442.548 199.788,446.748 198.588,455.544 C 196.992,464.352 198.996,468.348 204.588,467.544 Z" stroke-width="12" stroke-linejoin="miter" marker-start="none" marker-end="none" stroke-miterlimit="79.8403193612775" fill="url(#RadialGradient)"/>
+      <path d="M 234,493.944 L 247.2,489.743 C 247.992,478.944 244.8,474.743 237.599,477.143 C 230.795,479.147 229.596,484.739 233.999,493.943 Z" stroke-width="12" stroke-linejoin="miter" marker-start="none" marker-end="none" stroke-miterlimit="79.8403193612775" fill="url(#RadialGradient_1)"/>
+      <path d="M 269.4,378.743 L 276,382.944 C 279.996,381.348 282,375.552 282,365.543 C 282,355.535 279.996,349.547 276,347.543 C 267.996,343.547 263.604,346.739 262.8,357.143 C 261.995,367.547 264.192,374.747 269.4,378.743 Z" stroke-width="12" stroke-linejoin="miter" marker-start="none" marker-end="none" stroke-miterlimit="79.8403193612775" fill="url(#RadialGradient_2)"/>
+      <path d="M 191.4,372.144 L 207,364.944 C 207,362.543 207.204,359.148 207.6,354.743 C 207.6,351.144 206.208,348.539 203.399,346.944 C 201.791,346.152 198.995,346.152 194.999,346.944 C 191.399,348.144 188.795,349.547 187.199,351.144 C 184.403,353.94 183.599,357.743 184.799,362.544 C 185.591,366.948 187.799,370.152 191.399,372.144 Z" stroke-width="12" stroke-linejoin="miter" marker-start="none" marker-end="none" stroke-miterlimit="79.8403193612775" fill="url(#RadialGradient_3)"/>
+      <path d="M 351.588,400.944 L 364.788,398.543 C 364.788,395.339 365.196,389.94 365.988,382.343 C 366.384,375.551 365.784,370.547 364.188,367.343 C 358.188,367.343 353.388,371.939 349.788,381.143 C 346.596,389.939 347.196,396.551 351.588,400.943 Z" stroke-width="12" stroke-linejoin="miter" marker-start="none" marker-end="none" stroke-miterlimit="79.8403193612775" fill="url(#RadialGradient_4)"/>
+      <path d="M 336,469.944 L 349.2,456.144 C 353.604,451.344 354.996,444.744 353.4,436.344 C 345,434.34 338.604,438.144 334.2,447.744 C 330.192,457.344 330.792,464.748 336,469.944 Z" stroke-width="12" stroke-linejoin="miter" marker-start="none" marker-end="none" stroke-miterlimit="79.8403193612775" fill="url(#RadialGradient_5)"/>
+      <path d="M 338.4,502.944 L 349.2,493.944 C 352.404,482.747 349.404,480.551 340.2,487.343 C 330.996,493.739 330.396,498.947 338.4,502.944 Z" stroke-width="12" stroke-linejoin="miter" marker-start="none" marker-end="none" stroke-miterlimit="79.8403193612775" fill="url(#RadialGradient_6)"/>
+      <path d="M 382.8,433.944 L 398.4,436.343 C 398.4,433.944 398.604,427.343 398.999,416.543 C 398.207,407.747 394.403,404.747 387.599,407.543 C 383.999,408.743 382.199,412.547 382.199,418.944 C 382.595,426.144 382.799,431.148 382.799,433.944 Z" stroke-width="12" stroke-linejoin="miter" marker-start="none" marker-end="none" stroke-miterlimit="79.8403193612775" fill="url(#RadialGradient_7)"/>
+      <path d="M 409.2,367.344 L 424.8,373.944 C 425.208,367.547 422.604,363.743 417,362.543 C 411.396,361.343 408.792,362.94 409.2,367.343 Z" stroke-width="12" stroke-linejoin="miter" marker-start="none" marker-end="none" stroke-miterlimit="79.8403193612775" fill="url(#RadialGradient_8)"/>
+      <path d="M 398.4,507.743 L 409.199,492.143 C 405.203,482.147 399.6,482.747 392.4,493.943 C 385.199,505.547 387.192,510.143 398.4,507.743 Z" stroke-width="12" stroke-linejoin="miter" marker-start="none" marker-end="none" stroke-miterlimit="79.8403193612775" fill="url(#RadialGradient_9)"/>
+      <path d="M 302.4,420.743 C 305.604,410.339 308.4,395.339 310.8,375.743 C 306.804,368.135 303.396,354.947 300.6,336.144 C 300.204,334.14 299.004,328.344 297,318.743 C 294.6,309.539 292.403,303.743 290.4,301.343 L 286.799,301.943 L 287.4,301.943 C 291,304.739 293.4,307.739 294.6,310.943 C 294.6,311.351 295.008,315.143 295.8,322.343 C 299.004,349.139 300.6,364.343 300.6,367.943 C 299.808,379.547 299.208,388.547 298.8,394.943 C 298.392,406.943 299.592,415.547 302.4,420.743 Z" stroke-width="12" stroke-linejoin="miter" marker-start="none" marker-end="none" stroke-miterlimit="79.8403193612775" fill="url(#LinearGradient)"/>
+      <path d="M 316.2,597.144 L 322.8,595.944 L 329.4,589.344 L 329.4,541.344 C 339,540.552 347.196,536.748 354,529.944 C 357.6,525.948 363.396,519.348 371.4,510.144 C 377.4,504.948 382.2,497.544 385.8,487.944 C 387.804,482.352 390.6,473.544 394.2,461.544 C 397.8,451.14 399.204,443.748 398.4,439.343 C 397.992,436.548 396.192,430.139 393,420.144 C 390.6,412.548 389.4,405.947 389.4,400.344 C 389.4,399.552 388.8,396.144 387.6,390.144 C 386.808,384.947 386.808,381.743 387.6,380.544 C 388.8,378.54 391.2,376.74 394.8,375.144 C 398.004,373.944 399.804,371.148 400.2,366.743 C 401.796,358.343 401.604,348.144 399.6,336.144 L 393.6,335.544 C 388.008,335.544 383.808,335.34 381,334.944 C 376.2,334.944 372.204,334.152 369,332.544 C 370.596,342.144 371.4,364.14 371.4,398.544 C 371.796,408.948 372,416.94 372,422.544 C 372.396,432.144 371.4,439.74 369,445.344 C 365.004,454.14 359.208,461.544 351.6,467.544 C 346.8,467.94 343.8,470.136 342.6,474.144 C 344.208,480.144 345,483.744 345,484.944 C 346.2,490.944 345.996,495.348 344.4,498.144 C 343.596,500.94 341.604,502.944 338.4,504.144 C 333.996,506.148 331.596,507.348 331.2,507.744 C 327.996,510.948 326.4,515.544 326.4,521.544 C 326.796,529.14 327,534.744 327,538.344 C 327,559.152 323.4,578.748 316.2,597.144 Z" stroke-width="12" stroke-linejoin="miter" marker-start="none" marker-end="none" stroke-miterlimit="79.8403193612775" fill="url(#LinearGradient_1)"/>
+      <path d="M 247.2,362.543 C 243.995,363.335 238.8,362.339 231.599,359.543 C 238.403,371.135 244.799,378.143 250.799,380.543 C 252.395,375.335 252.803,367.343 251.999,356.543 C 251.603,344.939 251.999,336.539 253.199,331.343 C 253.991,329.339 255.599,325.139 257.999,318.743 C 260.399,313.535 261.791,309.335 262.2,306.144 L 262.2,305.544 L 249.599,307.344 L 247.2,307.344 C 247.992,332.148 247.992,350.544 247.2,362.544 Z" stroke-width="12" stroke-linejoin="miter" marker-start="none" marker-end="none" stroke-miterlimit="79.8403193612775" fill="url(#LinearGradient_2)"/>
+      <path d="M 231.588,359.543 L 209.4,322.944 C 205.8,327.348 202.2,330.552 198.6,332.543 L 189.6,337.343 L 202.8,343.343 C 207.588,345.347 217.2,350.747 231.588,359.543 Z" stroke-width="12" stroke-linejoin="miter" marker-start="none" marker-end="none" stroke-miterlimit="79.8403193612775" fill="url(#LinearGradient_3)"/>
+      <path d="M 310.8,375.743 C 311.208,377.747 312.204,379.535 313.8,381.144 C 315.804,379.548 317.4,373.944 318.6,364.344 C 319.008,359.136 319.596,352.739 320.4,345.144 C 321.192,342.348 322.199,336.947 323.4,328.944 C 324.996,322.152 327.192,317.148 330,313.944 C 331.2,311.94 333,310.739 335.4,310.344 L 334.799,310.344 C 330,306.744 324,303.947 316.799,301.944 C 312.396,306.348 310.199,315.144 310.199,328.344 C 310.991,342.744 311.4,351.947 311.4,355.944 L 310.799,375.743 Z" stroke-width="12" stroke-linejoin="miter" marker-start="none" marker-end="none" stroke-miterlimit="79.8403193612775" fill="url(#LinearGradient_4)"/>
+      <path d="M 209.4,322.944 L 231.6,359.543 C 238.8,362.339 244.008,363.335 247.2,362.543 C 247.992,350.543 247.992,332.135 247.2,307.343 C 233.604,308.939 224.196,311.339 219,314.543 L 209.4,322.944 Z" stroke-width="12" stroke-linejoin="miter" marker-start="none" marker-end="none" stroke-miterlimit="79.8403193612775" fill="url(#LinearGradient_5)"/>
+      <path d="M 209.4,322.944 L 231.6,359.543 C 238.8,362.339 244.008,363.335 247.2,362.543 C 247.992,350.543 247.992,332.135 247.2,307.343 C 233.604,308.939 224.196,311.339 219,314.543 L 209.4,322.944 Z" stroke-width="12" stroke-linejoin="miter" marker-start="none" marker-end="none" stroke-miterlimit="79.8403193612775" fill="url(#LinearGradient_6)"/>
+      <path d="M 316.8,301.944 C 309.6,300.743 302.796,300.348 296.4,300.743 L 290.4,301.343 C 292.404,303.743 294.6,309.551 297,318.743 C 299.004,328.343 300.204,334.139 300.6,336.144 C 303.396,354.947 306.804,368.148 310.8,375.743 L 311.4,355.944 C 311.4,351.947 310.992,342.743 310.2,328.344 C 310.2,315.144 312.396,306.348 316.8,301.944 Z" stroke-width="12" stroke-linejoin="miter" marker-start="none" marker-end="none" stroke-miterlimit="79.8403193612775" fill="url(#LinearGradient_7)"/>
+      <path d="M 316.8,301.944 C 309.6,300.743 302.796,300.348 296.4,300.743 L 290.4,301.343 C 292.404,303.743 294.6,309.551 297,318.743 C 299.004,328.343 300.204,334.139 300.6,336.144 C 303.396,354.947 306.804,368.148 310.8,375.743 L 311.4,355.944 C 311.4,351.947 310.992,342.743 310.2,328.344 C 310.2,315.144 312.396,306.348 316.8,301.944 Z" stroke-width="12" stroke-linejoin="miter" marker-start="none" marker-end="none" stroke-miterlimit="79.8403193612775" fill="url(#LinearGradient_8)"/>
+      <path d="M 329.4,541.344 L 329.4,589.344 C 334.2,584.136 340.596,575.94 348.6,564.744 C 360.6,548.34 371.4,535.536 381,526.344 C 387.792,520.343 399.6,513.347 416.4,505.343 C 422.4,500.94 426.6,496.739 429,492.743 C 431.4,487.944 432.204,481.944 431.4,474.743 C 430.2,462.335 427.992,449.339 424.8,435.743 L 424.2,433.944 C 419.796,431.148 414,421.344 406.8,404.543 C 404.4,398.94 400.8,390.335 396,378.743 C 397.2,379.14 400.404,380.339 405.6,382.343 C 409.596,383.939 413.004,384.947 415.8,385.343 C 418.2,378.143 419.604,372.947 420,369.743 C 420,364.944 418.404,360.144 415.2,355.343 C 412.404,350.939 407.4,344.747 400.2,336.743 L 399.6,336.144 C 401.604,348.144 401.808,358.344 400.2,366.743 C 399.792,371.135 397.992,373.944 394.8,375.144 C 391.2,376.739 388.8,378.552 387.6,380.544 C 386.808,381.744 386.808,384.948 387.6,390.144 C 388.8,396.144 389.4,399.552 389.4,400.344 C 389.4,405.947 390.6,412.548 393,420.144 C 396.204,430.14 398.004,436.548 398.4,439.344 C 399.192,443.748 397.8,451.14 394.2,461.544 C 390.6,473.544 387.792,482.34 385.8,487.944 C 382.2,497.544 377.4,504.948 371.4,510.144 C 363.396,519.348 357.6,525.948 354,529.944 C 347.195,536.748 339,540.552 329.4,541.344 Z" stroke-width="12" stroke-linejoin="miter" marker-start="none" marker-end="none" stroke-miterlimit="79.8403193612775" fill="url(#LinearGradient_9)"/>
+      <path d="M 329.4,541.344 L 329.4,589.344 C 334.2,584.136 340.596,575.94 348.6,564.744 C 360.6,548.34 371.4,535.536 381,526.344 C 387.792,520.343 399.6,513.347 416.4,505.343 C 422.4,500.94 426.6,496.739 429,492.743 C 431.4,487.944 432.204,481.944 431.4,474.743 C 430.2,462.335 427.992,449.339 424.8,435.743 L 424.2,433.944 C 419.796,431.148 414,421.344 406.8,404.543 C 404.4,398.94 400.8,390.335 396,378.743 C 397.2,379.14 400.404,380.339 405.6,382.343 C 409.596,383.939 413.004,384.947 415.8,385.343 C 418.2,378.143 419.604,372.947 420,369.743 C 420,364.944 418.404,360.144 415.2,355.343 C 412.404,350.939 407.4,344.747 400.2,336.743 L 399.6,336.144 C 401.604,348.144 401.808,358.344 400.2,366.743 C 399.792,371.135 397.992,373.944 394.8,375.144 C 391.2,376.739 388.8,378.552 387.6,380.544 C 386.808,381.744 386.808,384.948 387.6,390.144 C 388.8,396.144 389.4,399.552 389.4,400.344 C 389.4,405.947 390.6,412.548 393,420.144 C 396.204,430.14 398.004,436.548 398.4,439.344 C 399.192,443.748 397.8,451.14 394.2,461.544 C 390.6,473.544 387.792,482.34 385.8,487.944 C 382.2,497.544 377.4,504.948 371.4,510.144 C 363.396,519.348 357.6,525.948 354,529.944 C 347.195,536.748 339,540.552 329.4,541.344 Z" stroke-width="12" stroke-linejoin="miter" marker-start="none" marker-end="none" stroke-miterlimit="79.8403193612775" fill="url(#LinearGradient_10)"/>
+      <path d="M 406.8,404.543 C 414,421.343 419.796,431.135 424.2,433.943 C 422.604,426.743 421.992,421.739 422.4,418.944 C 422.796,416.543 424.8,413.352 428.4,409.344 C 431.196,404.94 432.996,401.34 433.8,398.544 C 436.2,388.944 436.8,378.744 435.6,367.944 C 434.4,356.748 430.596,348.744 424.2,343.944 C 418.992,340.344 411,337.944 400.2,336.744 C 407.4,344.748 412.404,350.94 415.2,355.344 C 418.404,360.144 420,364.944 420,369.744 C 419.604,372.948 418.2,378.144 415.8,385.344 C 413.004,384.947 409.596,383.94 405.6,382.344 C 400.403,380.34 397.199,379.14 396,378.744 C 400.8,390.348 404.4,398.94 406.8,404.544 Z" stroke-width="12" stroke-linejoin="miter" marker-start="none" marker-end="none" stroke-miterlimit="79.8403193612775" fill="url(#LinearGradient_11)"/>
+      <path d="M 406.8,404.543 C 414,421.343 419.796,431.135 424.2,433.943 C 422.604,426.743 421.992,421.739 422.4,418.944 C 422.796,416.543 424.8,413.352 428.4,409.344 C 431.196,404.94 432.996,401.34 433.8,398.544 C 436.2,388.944 436.8,378.744 435.6,367.944 C 434.4,356.748 430.596,348.744 424.2,343.944 C 418.992,340.344 411,337.944 400.2,336.744 C 407.4,344.748 412.404,350.94 415.2,355.344 C 418.404,360.144 420,364.944 420,369.744 C 419.604,372.948 418.2,378.144 415.8,385.344 C 413.004,384.947 409.596,383.94 405.6,382.344 C 400.403,380.34 397.199,379.14 396,378.744 C 400.8,390.348 404.4,398.94 406.8,404.544 Z" stroke-width="12" stroke-linejoin="miter" marker-start="none" marker-end="none" stroke-miterlimit="79.8403193612775" fill="url(#LinearGradient_12)"/>
+      <path d="M 406.8,404.543 C 414,421.343 419.796,431.135 424.2,433.943 C 422.604,426.743 421.992,421.739 422.4,418.944 C 422.796,416.543 424.8,413.352 428.4,409.344 C 431.196,404.94 432.996,401.34 433.8,398.544 C 436.2,388.944 436.8,378.744 435.6,367.944 C 434.4,356.748 430.596,348.744 424.2,343.944 C 418.992,340.344 411,337.944 400.2,336.744 C 407.4,344.748 412.404,350.94 415.2,355.344 C 418.404,360.144 420,364.944 420,369.744 C 419.604,372.948 418.2,378.144 415.8,385.344 C 413.004,384.947 409.596,383.94 405.6,382.344 C 400.403,380.34 397.199,379.14 396,378.744 C 400.8,390.348 404.4,398.94 406.8,404.544 Z" stroke-width="12" stroke-linejoin="miter" marker-start="none" marker-end="none" stroke-miterlimit="79.8403193612775" fill="url(#LinearGradient_13)"/>
+      <path d="M 261,598.344 C 265.404,605.544 269.604,610.14 273.6,612.144 L 286.8,612.144 C 292.8,614.148 298.008,614.148 302.4,612.144 C 304.8,610.944 308.796,608.148 314.4,603.744 L 313.8,603.144 L 316.2,597.144 C 301.8,598.74 289.8,598.14 280.2,595.344 C 268.596,592.14 258.396,584.94 249.6,573.744 C 243.204,564.948 239.208,559.944 237.6,558.744 C 236.4,557.544 233.4,555.144 228.6,551.544 C 225,548.352 222.192,545.544 220.2,543.144 C 214.992,535.152 216.192,530.352 223.8,528.744 C 227.796,527.544 235.404,526.944 246.6,526.944 C 241.392,523.74 233.796,521.148 223.8,519.144 C 210.996,516.744 203.196,515.148 200.4,514.344 L 190.8,511.944 C 193.596,518.748 199.2,526.344 207.6,534.744 C 217.2,543.552 223.8,549.948 227.4,553.944 C 234.192,560.352 242.196,569.544 251.4,581.544 C 255.792,588.744 258.996,594.348 261,598.344 Z" stroke-width="12" stroke-linejoin="miter" marker-start="none" marker-end="none" stroke-miterlimit="79.8403193612775" fill="url(#LinearGradient_14)"/>
+      <path d="M 202.8,404.543 C 199.308,402.215 209.52,401.015 233.4,400.944 C 222.54,400.655 211.14,398.447 199.2,394.344 C 187.2,390.216 185.904,388.02 195.3,387.744 C 183.312,387.828 175.608,388.62 172.2,390.144 L 165.6,393.144 L 164.4,403.344 C 165.996,403.344 168.6,403.74 172.2,404.544 C 175.404,405.744 177.792,406.14 179.4,405.744 L 202.8,404.544 Z" stroke-width="12" stroke-linejoin="miter" marker-start="none" marker-end="none" stroke-miterlimit="79.8403193612775" fill="url(#LinearGradient_15)"/>
+      <path d="M 314.4,603.744 L 322.8,595.944 L 316.2,597.144 L 313.8,603.144 Z" stroke-width="12" stroke-linejoin="miter" marker-start="none" marker-end="none" stroke-miterlimit="79.8403193612775" fill="url(#LinearGradient_16)"/>
+      <path d="M 314.4,603.744 L 322.8,595.944 L 316.2,597.144 L 313.8,603.144 Z" stroke-width="12" stroke-linejoin="miter" marker-start="none" marker-end="none" stroke-miterlimit="79.8403193612775" fill="url(#LinearGradient_17)"/>
+     </g>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>

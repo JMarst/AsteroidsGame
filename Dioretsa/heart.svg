@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg  PUBLIC '-//W3C//DTD SVG 1.0//EN'  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="115mm" height="162.64mm" clip-rule="evenodd" fill-rule="evenodd" image-rendering="optimizeQuality" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" version="1.0" viewBox="0 0 11500 16264" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#FBD9CA;stroke-width:10.9524}
+    .str11 {stroke:#F6B096;stroke-width:10.9524}
+    .str1 {stroke:#F6B096;stroke-width:10.9524}
+    .str9 {stroke:#F08365;stroke-width:10.9524}
+    .str4 {stroke:#EA556F;stroke-width:10.9524}
+    .str12 {stroke:#E51A4B;stroke-width:10.9524}
+    .str5 {stroke:#C22134;stroke-width:10.9524}
+    .str10 {stroke:#7A0000;stroke-width:10.9524}
+    .str6 {stroke:#E63737;stroke-width:10.9524}
+    .str13 {stroke:#FC5353;stroke-width:10.9524}
+    .str3 {stroke:#FF7070;stroke-width:10.9524}
+    .str2 {stroke:#FF9966;stroke-width:10.9524}
+    .str8 {stroke:#FF9999;stroke-width:10.9524}
+    .str7 {stroke:#FFCCCC;stroke-width:10.9524}
+    .fil0 {fill:#FBD9CA}
+    .fil11 {fill:#F6B096}
+    .fil1 {fill:#F6B096}
+    .fil9 {fill:#F08365}
+    .fil4 {fill:#EA556F}
+    .fil12 {fill:#E51A4B}
+    .fil5 {fill:#C22134}
+    .fil10 {fill:#7A0000}
+    .fil6 {fill:#E63737}
+    .fil13 {fill:#FC5353}
+    .fil3 {fill:#FF7070}
+    .fil2 {fill:#FF9966}
+    .fil8 {fill:#FF9999}
+    .fil7 {fill:#FFCCCC}
+   ]]>
+  </style>
+ </defs>
+   <polygon class="fil0 str0" points="3597 4420 2515 5902 3968 6016"/>
+   <polygon class="fil1 str1" points="3597 4420 5625 6016 3968 6016"/>
+   <polygon class="fil2 str2" points="2515 5902 2515 7641 3939 7669 3968 6016"/>
+   <polygon class="fil3 str3" points="2515 7641 5621 10035 3939 7669"/>
+   <polygon class="fil4 str4" points="5625 6016 3968 6016 3939 7669"/>
+   <polygon class="fil5 str5" points="5625 6016 3939 7669 5649 7669"/>
+   <polygon class="fil6 str6" points="3939 7669 5649 7669 5621 10035"/>
+   <polygon class="fil7 str7" points="7664 4420 8747 5902 7293 6016"/>
+   <polygon class="fil8 str8" points="7664 4420 5637 6016 7293 6016"/>
+   <polygon class="fil9 str9" points="8747 5902 8747 7641 7322 7669 7293 6016"/>
+   <polygon class="fil10 str10" points="8747 7641 5641 10035 7322 7669"/>
+   <polygon class="fil11 str11" points="5637 6016 7293 6016 7322 7669"/>
+   <polygon class="fil12 str12" points="5637 6016 7322 7669 5612 7669"/>
+   <polygon class="fil13 str13" points="7322 7669 5612 7669 5641 10035"/>
+</svg>

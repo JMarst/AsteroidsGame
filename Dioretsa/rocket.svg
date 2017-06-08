@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg  PUBLIC '-//W3C//DTD SVG 1.1//EN'  'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'>
+<svg width="179.04mm" height="263.94mm" clip-rule="evenodd" fill-rule="evenodd" image-rendering="optimizeQuality" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" version="1.1" viewBox="0 0 17095 25202" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+    .str0 {stroke:#2B2A29;stroke-width:19.0966}
+    .fil7 {fill:#727271}
+    .fil4 {fill:#FECC00}
+    .fil5 {fill:url(#j)}
+    .fil0 {fill:url(#b)}
+    .fil8 {fill:url(#k)}
+    .fil9 {fill:url(#a)}
+    .fil2 {fill:url(#l)}
+    .fil6 {fill:url(#m)}
+    .fil10 {fill:url(#id6)}
+    .fil1 {fill:url(#n)}
+    .fil3 {fill:url(#o)}
+    .fil11 {fill:url(#p)}
+  </style>
+  <linearGradient id="j" x1="7155.7" x2="10032" y1="23866" y2="23866" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#5B5B5B" offset="0"/>
+   <stop stop-color="#9D9E9E" offset=".4902"/>
+   <stop stop-color="#5B5B5B" offset="1"/>
+  </linearGradient>
+  <linearGradient id="b" x1="645.69" x2="7205.2" y1="20678" y2="20678" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#C5C6C6" offset="0"/>
+   <stop stop-color="#5B5B5B" offset=".4902"/>
+   <stop stop-color="#C5C6C6" offset="1"/>
+  </linearGradient>
+  <linearGradient id="k" x1="4840.8" x2="12344" y1="13702" y2="13702" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#5B5B5B" offset="0"/>
+   <stop stop-color="#C5C6C6" offset=".36078"/>
+   <stop stop-color="#EBECEC" offset=".5098"/>
+   <stop stop-color="#C5C6C6" offset=".65882"/>
+   <stop stop-color="#2B2A29" offset="1"/>
+  </linearGradient>
+  <linearGradient id="a" x1="5684.6" x2="11500" y1="5739.5" y2="5739.5" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#2B2A29" offset="0"/>
+   <stop stop-color="#5B5B5B" offset=".4902"/>
+   <stop stop-color="#2B2A29" offset="1"/>
+  </linearGradient>
+  <linearGradient id="l" y1="50%" y2="50%" xlink:href="#a">
+  </linearGradient>
+  <linearGradient id="m" x1="7137.4" x2="10095" y1="24579" y2="24579" gradientUnits="userSpaceOnUse" xlink:href="#a">
+  </linearGradient>
+  <linearGradient id="n" x1="9917.7" x2="16477" y1="20644" y2="20644" gradientUnits="userSpaceOnUse" xlink:href="#b">
+  </linearGradient>
+  <linearGradient id="o" x1="15355" x2="17413" y1="21193" y2="21193" gradientUnits="userSpaceOnUse" xlink:href="#a">
+  </linearGradient>
+  <radialGradient id="p">
+   <stop stop-color="#FEFEFE" offset="0"/>
+   <stop stop-color="#FECC00" offset="1"/>
+  </radialGradient>
+ </defs>
+   <path class="fil0" d="m646 20678c2997 381 5119-2058 6559-3235v5616l-6559 854v-3235z"/>
+   <path class="fil1" d="m16477 20644c-2998 381-5119-2058-6559-3234v5615l6559 854v-3235z"/>
+   <path class="fil2" d="m721 17185c990 1636 1019 6223 0 8017-880-1840-1039-6291 0-8017z"/>
+   <path class="fil3" d="m16373 17185c-989 1636-1018 6223 0 8017 881-1840 1040-6291 0-8017z"/>
+   <path class="fil4" d="m8604 24559c792 0 1426 63 1426 162s-634 197-1426 197c-793 0-1447-101-1447-200s654-159 1447-159z"/>
+   <path class="fil5" d="m7480 23011h2247c2 641 124 1197 305 1711-959-224-1917-221-2876 0 217-571 346-1141 324-1711z"/>
+   <path class="fil6" d="m7228 24523c749-87 1997-67 2746 25 39 39 121 107 58 174-959-106-1917-88-2876 0-19-118 56-179 72-199z"/>
+    <rect class="fil7" x="8480" y="584" width="225" height="4987"/>
+    <circle class="fil7" cx="8592" cy="427" r="427"/>
+   <path class="fil8" d="m8592 3841c2072 0 3752 4862 3752 9750 0 3694-985 7681-2361 9408-444 558-930-131-1436-131-501 0-977 695-1410 146-1357-1718-2296-5718-2296-9423 0-4888 1679-9750 3751-9750z"/>
+   <path class="fil9" d="m8592 3841c1173 0 2220 1558 2908 3797-1728-420-3608-539-5815 0 688-2239 1734-3797 2907-3797z"/>
+   <path class="fil2" d="m8577 17185c989 1636 1018 6223 0 8017-881-1840-1040-6291 0-8017z"/>
+    <circle class="fil10 str0" cx="8592" cy="8536" r="988"/>
+    <circle class="fil11 str0" cx="8592" cy="8536" r="809"/>
+    <circle class="fil10 str0" cx="8592" cy="12185" r="1063"/>
+    <circle class="fil11 str0" cx="8592" cy="12185" r="869"/>
+    <circle class="fil10 str0" cx="8592" cy="15834" r="988"/>
+    <circle class="fil11 str0" cx="8592" cy="15834" r="809"/>
+</svg>

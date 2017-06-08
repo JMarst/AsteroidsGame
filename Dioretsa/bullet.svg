@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 49.136 318.18" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <filter id="d">
+   <feGaussianBlur stdDeviation="0.253161"/>
+  </filter>
+  <linearGradient id="b" x1=".5" x2=".88726" y1=".5" y2=".5" spreadMethod="reflect">
+   <stop stop-color="#fefcf7" offset="0"/>
+   <stop stop-color="#e3cfa9" offset="1"/>
+  </linearGradient>
+  <linearGradient id="c" x1=".4375" x2=".43125" y1="2.8571" y2="2e-6">
+   <stop stop-color="#a16f3b" offset="0"/>
+   <stop stop-color="#a16f3b" stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="a" x1=".5" x2=".5" y1="-.21429" y2="1">
+   <stop stop-color="#fcf9f0" offset="0"/>
+   <stop stop-color="#fcf9f0" stop-opacity="0" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g stroke-linecap="round" stroke-linejoin="round" stroke-width="10.3">
+  <g fill="#7f7f7f">
+   <rect x="5.4868" y="308.03" width="38.163" height="6.6109"/>
+   <path d="m6.7994 97.281v14.874l-6.7994 22.735v175.46h49.136v-175.46l-6.7994-22.735v-14.874h-35.537z"/>
+  </g>
+  <rect x=".63488" y="306.14" width="48.079" height="4.2069" fill="url(#c)" opacity=".651"/>
+  <path d="m0 314.32v3.8632h49.136v-3.8632h-49.136z" fill="#0ff"/>
+  <path d="m24.85-2c-10.158 24.978-16.622 57.687-17.586 93.757h35.171c-0.9635-36.07-7.4279-68.779-17.586-93.757z" fill="#3f3f3f"/>
+  <path d="m7.2297 92.241v22.074h34.927v-22.074h-34.927z" fill="#bfbfbf"/>
+  <path d="m7.2236 112.53l-6.6225 21.696v1.791h48.235v-1.791l-6.6225-21.696h-34.99z" fill="url(#b)" filter="url(#d)" opacity=".863"/>
+  <rect x="6.8129" y="92.275" width="35.458" height="4.2069" fill="url(#a)"/>
+ </g>
+</svg>

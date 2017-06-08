@@ -1,0 +1,177 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!--Generator: Xara Designer (www.xara.com), SVG filter version: 4.0.0.1-->
+<svg stroke-width="0.501" stroke-linejoin="bevel" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" version="1.1" overflow="visible" width="600pt" height="304.385pt" viewBox="0 0 600 304.385">
+ <defs>
+  <marker id="DefaultArrow2" markerUnits="strokeWidth" viewBox="0 0 1 1" markerWidth="1" markerHeight="1" overflow="visible" orient="auto">
+   <!-- REF_ARROW_STRAIGHT (-2) -->
+   <g transform="scale(0.0092592592)">
+    <!-- 1/108 -->
+    <path d="M -9 54 L -9 -54 L 117 0 z"/>
+   </g>
+  </marker>
+  <marker id="DefaultArrow3" markerUnits="strokeWidth" viewBox="0 0 1 1" markerWidth="1" markerHeight="1" overflow="visible" orient="auto">
+   <!-- REF_ARROW_ANGLED -->
+   <g transform="scale(0.0092592592)">
+    <path d="M -27 54 L -9 0 L -27 -54 L 135 0 z"/>
+   </g>
+  </marker>
+  <marker id="DefaultArrow4" markerUnits="strokeWidth" viewBox="0 0 1 1" markerWidth="1" markerHeight="1" overflow="visible" orient="auto">
+   <!-- REF_ARROW_ROUNDED -->
+   <g transform="scale(0.0092592592)">
+    <path d="M -9,0 L -9,-45 C -9,-51.708 2.808,-56.580 9,-54 L 117,-9 C 120.916,-7.369 126.000,-4.242 126,0 C 126,4.242 120.916,7.369 117,9 L 9,54 C 2.808,56.580 -9,51.708 -9,45 z"/>
+   </g>
+  </marker>
+  <marker id="DefaultArrow5" markerUnits="strokeWidth" viewBox="0 0 1 1" markerWidth="1" markerHeight="1" overflow="visible" orient="auto">
+   <!-- REF_ARROW_SPOT -->
+   <g transform="scale(0.0092592592)">
+    <path d="M -54, 0 C -54,29.807 -29.807,54 0,54 C 29.807,54 54,29.807 54,0 C 54,-29.807 29.807,-54 0,-54 C -29.807,-54 -54,-29.807 -54,0 z"/>
+   </g>
+  </marker>
+  <marker id="DefaultArrow6" markerUnits="strokeWidth" viewBox="0 0 1 1" markerWidth="1" markerHeight="1" overflow="visible" orient="auto">
+   <!-- REF_ARROW_DIAMOND -->
+   <g transform="scale(0.0092592592)">
+    <path d="M -63,0 L 0,63 L 63,0 L 0,-63 z"/>
+   </g>
+  </marker>
+  <marker id="DefaultArrow7" markerUnits="strokeWidth" viewBox="0 0 1 1" markerWidth="1" markerHeight="1" overflow="visible" orient="auto">
+   <!-- REF_ARROW_FEATHER -->
+   <g transform="scale(0.0092592592)">
+    <path d="M 18,-54 L 108,-54 L 63,0 L 108,54 L 18, 54 L -36,0 z"/>
+   </g>
+  </marker>
+  <marker id="DefaultArrow8" markerUnits="strokeWidth" viewBox="0 0 1 1" markerWidth="1" markerHeight="1" overflow="visible" orient="auto">
+   <!-- REF_ARROW_FEATHER2 -->
+   <g transform="scale(0.0092592592)">
+    <path d="M -36,0 L 18,-54 L 54,-54 L 18,-18 L 27,-18 L 63,-54 L 99,-54 L 63,-18 L 72,-18 L 108,-54 L 144,-54 L 90,0 L 144,54 L 108,54 L 72,18 L 63,18 L 99,54 L 63,54 L 27,18 L 18,18 L 54,54 L 18,54 z"/>
+   </g>
+  </marker>
+  <marker id="DefaultArrow9" markerUnits="strokeWidth" viewBox="0 0 1 1" markerWidth="1" markerHeight="1" overflow="visible" orient="auto">
+   <!-- REF_ARROW_HOLLOWDIAMOND -->
+   <g transform="scale(0.0092592592)">
+    <path d="M 0,45 L -45,0 L 0, -45 L 45, 0 z M 0, 63 L-63, 0 L 0, -63 L 63, 0 z"/>
+   </g>
+  </marker>
+  <filter id="StainedFilter">
+   <feBlend mode="multiply" in2="BackgroundImage" in="SourceGraphic" result="blend"/>
+   <feComposite in="blend" in2="SourceAlpha" operator="in" result="comp"/>
+  </filter>
+  <filter id="BleachFilter">
+   <feBlend mode="screen" in2="BackgroundImage" in="SourceGraphic" result="blend"/>
+   <feComposite in="blend" in2="SourceAlpha" operator="in" result="comp"/>
+  </filter>
+  <filter id="InvertTransparencyBitmapFilter">
+   <feComponentTransfer>
+    <feFuncR type="gamma" amplitude="1.055" exponent=".416666666" offset="-0.055"/>
+    <feFuncG type="gamma" amplitude="1.055" exponent=".416666666" offset="-0.055"/>
+    <feFuncB type="gamma" amplitude="1.055" exponent=".416666666" offset="-0.055"/>
+   </feComponentTransfer>
+   <feComponentTransfer>
+    <feFuncR type="linear" slope="-1" intercept="1"/>
+    <feFuncG type="linear" slope="-1" intercept="1"/>
+    <feFuncB type="linear" slope="-1" intercept="1"/>
+    <feFuncA type="linear" slope="1" intercept="0"/>
+   </feComponentTransfer>
+   <feComponentTransfer>
+    <feFuncR type="gamma" amplitude="1" exponent="2.4" offset="0"/>
+    <feFuncG type="gamma" amplitude="1" exponent="2.4" offset="0"/>
+    <feFuncB type="gamma" amplitude="1" exponent="2.4" offset="0"/>
+   </feComponentTransfer>
+  </filter>
+  <linearGradient id="LinearGradient" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="67.648" y2="0" gradientTransform="translate(296.691 298.129) rotate(-70.2576) skewX(15.494)">
+   <stop offset="0" stop-color="#ffffff"/>
+   <stop offset="1" stop-color="#000000"/>
+  </linearGradient>
+  <linearGradient id="LinearGradient_1" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="67.648" y2="0" gradientTransform="translate(296.691 298.129) rotate(-70.2576) skewX(15.494)">
+   <stop offset="0" stop-color="#ffffff"/>
+   <stop offset="1" stop-color="#ffffff"/>
+  </linearGradient>
+  <linearGradient id="LinearGradient_2" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="153.149" y2="0" gradientTransform="translate(45.973 197.835) rotate(-21.6345) skewX(36.6665)">
+   <stop offset="0" stop-color="#4c4c4c"/>
+   <stop offset="1" stop-color="#4c4c4c"/>
+  </linearGradient>
+  <linearGradient id="LinearGradient_3" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="153.149" y2="0" gradientTransform="translate(45.973 197.835) rotate(-21.6345) skewX(36.6665)">
+   <stop offset="0" stop-color="#ffffff"/>
+   <stop offset="1" stop-color="#000000"/>
+  </linearGradient>
+  <linearGradient id="LinearGradient_4" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="27.153" y2="0" gradientTransform="translate(287.475 110.218) rotate(-76.931) skewX(10.0162)">
+   <stop offset="0" stop-color="#484848"/>
+   <stop offset="1" stop-color="#484848"/>
+  </linearGradient>
+  <linearGradient id="LinearGradient_5" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="27.153" y2="0" gradientTransform="translate(287.475 110.218) rotate(-76.931) skewX(10.0162)">
+   <stop offset="0" stop-color="#ffffff"/>
+   <stop offset="1" stop-color="#000000"/>
+  </linearGradient>
+  <linearGradient id="LinearGradient_6" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="23.109" y2="0" gradientTransform="translate(103.252 144.691) rotate(-88.1948) skewX(1.42477)">
+   <stop offset="0" stop-color="#484848"/>
+   <stop offset="1" stop-color="#484848"/>
+  </linearGradient>
+  <linearGradient id="LinearGradient_7" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="23.109" y2="0" gradientTransform="translate(103.252 144.691) rotate(-88.1948) skewX(1.42477)">
+   <stop offset="0" stop-color="#ffffff"/>
+   <stop offset="1" stop-color="#000000"/>
+  </linearGradient>
+  <linearGradient id="LinearGradient_8" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="23.106" y2="0" gradientTransform="translate(517.095 142.431) rotate(-91.7261) skewX(-1.32789)">
+   <stop offset="0" stop-color="#484848"/>
+   <stop offset="1" stop-color="#484848"/>
+  </linearGradient>
+  <linearGradient id="LinearGradient_9" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="23.106" y2="0" gradientTransform="translate(517.095 142.431) rotate(-91.7261) skewX(-1.32789)">
+   <stop offset="0" stop-color="#ffffff"/>
+   <stop offset="1" stop-color="#000000"/>
+  </linearGradient>
+ </defs>
+ <g id="Document" fill="none" stroke="black" font-family="Times New Roman" font-size="16" transform="scale(1 -1)">
+  <g id="Spread" transform="translate(0 -304.385)">
+   <g id="SVG Document">
+    <g id="ClipView">
+     <path d="M 0,304.385 L 600,304.385 L 600,0 L 0,0 L 0,304.385" stroke="none"/>
+     <clipPath id="ClipPath">
+      <path d="M 0,0 L 0,304.385 L 600,304.385 L 600,0 L 0,0 Z"/>
+     </clipPath>
+     <g clip-path="url(#ClipPath)">
+      <path d="M 434.945,72.41 C 434.957,34.175 375.741,3.176 302.69,3.176 C 229.638,3.176 170.422,34.175 170.434,72.41 C 170.422,110.646 229.638,141.644 302.69,141.644 C 375.741,141.644 434.958,110.646 434.945,72.41 Z" fill="#410101" stroke="none" stroke-width="0.796" fill-rule="evenodd" stroke-linecap="round" marker-start="none" marker-end="none" stroke-miterlimit="79.8403193612775"/>
+      <path d="M 302.889,222.601 C 136.624,222.601 44.904,173.859 2.849,135.062 C 91.108,71.46 193.452,49.804 302.889,50.708 C 411.746,50.115 504.825,79.913 601.257,134.266 C 559.201,173.062 469.148,222.601 302.889,222.601 Z" fill="#7f0000" stroke="none" stroke-width="3.184" fill-rule="evenodd" stroke-linecap="round" marker-start="none" marker-end="none" stroke-miterlimit="79.8403193612775"/>
+      <path d="M 1.591,134.968 C 91.659,75.045 191.494,47.634 300.358,48.226 C 300.383,48.226 300.409,48.226 300.434,48.226 C 409.292,47.634 505.157,79.819 601.588,134.173 C 526.135,117.306 398.569,70.448 308.998,75.395 C 306.089,75.395 303.22,75.413 300.35,75.472 C 297.506,75.414 294.662,75.395 291.778,75.395 C 202.209,70.447 77.044,118.1 1.576,134.968 Z" fill="#400000" stroke="none" stroke-width="3.184" fill-rule="evenodd" stroke-linecap="round" marker-start="none" marker-end="none" stroke-miterlimit="79.8403193612775" fill-opacity="0.980392"/>
+      <path d="M 442.029,181.011 C 442.029,160.765 381.11,144.352 305.964,144.352 C 230.818,144.352 169.9,160.765 169.9,181.011 C 169.899,201.258 230.818,217.671 305.964,217.671 C 381.11,217.671 442.029,201.258 442.029,181.011 Z" fill="#666666" stroke="none" stroke-width="3.184" fill-rule="evenodd" stroke-linecap="round" marker-start="none" marker-end="none" stroke-miterlimit="79.8403193612775" fill-opacity="0.980392"/>
+      <path d="M 305.945,175.902 C 258.336,175.902 219.686,165.521 219.387,152.712 C 242.911,147.481 273.085,144.37 305.945,144.37 C 338.84,144.37 369.046,147.471 392.579,152.712 C 392.282,165.522 353.556,175.902 305.945,175.902 Z" fill="#292929" stroke="none" stroke-width="3.184" fill-rule="evenodd" stroke-linecap="round" marker-start="none" marker-end="none" stroke-miterlimit="79.8403193612775" fill-opacity="0.980392"/>
+      <mask id="TranspMask">
+       <rect x="-10%" y="-10%" width="120%" height="120%" fill="#bdbdbd" stroke="none"/>
+      </mask>
+      <g id="Group" fill="#484848" fill-rule="evenodd" stroke-linecap="round" stroke="none" stroke-width="3.184" stroke-miterlimit="79.8403193612775" mask="url(#TranspMask)">
+       <path d="M 442.458,199.432 C 442.458,139.741 387.267,135.581 305.157,134.55 C 215.344,133.437 165.867,143.901 170.329,199.432 C 175.095,258.751 231.286,307.568 306.394,307.568 C 381.502,307.568 442.458,259.123 442.458,199.432 Z" marker-start="none" marker-end="none" fill-opacity="0.980392"/>
+      </g>
+      <mask id="TranspMask_2">
+       <rect x="-10%" y="-10%" width="120%" height="120%" fill="#bdbdbd" stroke="none"/>
+      </mask>
+      <g id="Group_1" fill-rule="evenodd" stroke-linecap="round" stroke="none" stroke-width="3.184" stroke-miterlimit="79.8403193612775" mask="url(#TranspMask_2)" fill="url(#LinearGradient_1)">
+       <mask id="TranspMask_1">
+        <rect x="-10%" y="-10%" width="120%" height="120%" fill="url(#LinearGradient)" stroke="none"/>
+       </mask>
+       <path d="M 418.931,213.497 C 418.931,163.328 390.285,266.73 304.87,239.238 C 205.782,207.343 188.47,189.569 190.213,213.497 C 193.846,263.381 241.445,304.385 304.571,304.385 C 367.698,304.385 418.93,263.668 418.93,213.497 Z" marker-start="none" marker-end="none" mask="url(#TranspMask_1)"/>
+      </g>
+      <mask id="TranspMask_3">
+       <rect x="-10%" y="-10%" width="120%" height="120%" fill="url(#LinearGradient_3)" stroke="none"/>
+      </mask>
+      <path d="M 207.189,212.539 C 205.149,212.193 204.338,210.085 195.45,211.196 C 144.122,210.431 71.693,176.932 22.086,136.928 C 29.277,135.807 35.791,134.609 41.834,133.247 C 88.27,169.09 152.197,198.744 200.816,202.739 C 206.422,204.527 212.29,206.244 218.574,207.813 C 211.101,212.013 208.769,212.808 207.182,212.539 Z M 81.736,116.932 C 81.886,116.833 82.033,116.733 82.183,116.633 C 82.201,116.649 82.216,116.668 82.233,116.683 C 82.065,116.761 81.904,116.854 81.736,116.932 Z" stroke="none" stroke-width="3.184" fill-rule="evenodd" stroke-linecap="round" marker-start="none" marker-end="none" stroke-miterlimit="79.8403193612775" mask="url(#TranspMask_3)" fill="url(#LinearGradient_2)"/>
+      <path d="M 321.799,102.527 C 321.799,96.373 309.328,91.385 293.943,91.385 C 278.558,91.385 266.086,96.373 266.086,102.527 C 266.086,108.681 278.558,113.67 293.943,113.67 C 309.328,113.67 321.799,108.681 321.799,102.527 Z" fill="#ff7f00" stroke="none" stroke-width="7.959" fill-rule="evenodd" stroke-linecap="round" marker-start="none" marker-end="none"/>
+      <path d="M 129.878,129.62 C 128.498,124.368 116.734,122.908 103.602,126.359 C 90.471,129.811 80.946,136.867 82.326,142.119 C 83.707,147.371 95.471,148.831 108.602,145.38 C 121.733,141.928 131.258,134.872 129.878,129.62 Z" fill="#00ffff" stroke="none" stroke-width="7.959" fill-rule="evenodd" stroke-linecap="round" marker-start="none" marker-end="none"/>
+      <mask id="TranspMask_4">
+       <rect x="-10%" y="-10%" width="120%" height="120%" fill="url(#LinearGradient_5)" stroke="none"/>
+      </mask>
+      <path d="M 309.033,104.215 C 309.033,100.054 293.219,116.335 290.189,96.677 C 288.604,86.396 271.345,100.054 271.345,104.215 C 271.345,108.375 279.788,111.752 290.189,111.752 C 300.591,111.752 309.033,108.375 309.033,104.215 Z" stroke="none" stroke-width="7.959" fill-rule="evenodd" stroke-linecap="round" marker-start="none" marker-end="none" mask="url(#TranspMask_4)" fill="url(#LinearGradient_4)"/>
+      <mask id="TranspMask_5">
+       <rect x="-10%" y="-10%" width="120%" height="120%" fill="url(#LinearGradient_7)" stroke="none"/>
+      </mask>
+      <path d="M 121.049,135.732 C 120.345,132.264 109.22,148.651 103.236,132.805 C 100.107,124.517 87.27,138.975 87.974,142.443 C 88.677,145.911 96.657,147.223 105.786,145.371 C 114.915,143.519 121.752,139.201 121.049,135.733 Z" stroke="none" stroke-width="7.959" fill-rule="evenodd" stroke-linecap="round" marker-start="none" marker-end="none" mask="url(#TranspMask_5)" fill="url(#LinearGradient_6)"/>
+      <path d="M 489.783,127.375 C 491.163,122.123 502.927,120.663 516.059,124.115 C 529.19,127.566 538.715,134.622 537.335,139.875 C 535.954,145.127 524.19,146.587 511.059,143.135 C 497.928,139.684 488.403,132.628 489.783,127.375 Z" fill="#ff7f00" stroke="none" stroke-width="7.959" fill-rule="evenodd" stroke-linecap="round" marker-start="none" marker-end="none"/>
+      <mask id="TranspMask_6">
+       <rect x="-10%" y="-10%" width="120%" height="120%" fill="url(#LinearGradient_9)" stroke="none"/>
+      </mask>
+      <path d="M 498.617,133.472 C 499.321,130.004 510.446,146.391 516.43,130.544 C 519.559,122.257 532.395,136.714 531.692,140.183 C 530.989,143.651 523.009,144.963 513.88,143.111 C 504.751,141.258 497.914,136.94 498.617,133.472 Z" stroke="none" stroke-width="7.959" fill-rule="evenodd" stroke-linecap="round" marker-start="none" marker-end="none" mask="url(#TranspMask_6)" fill="url(#LinearGradient_8)"/>
+      <path d="M 432.525,63.321 C 402.698,56.572 359.452,47.33 340.648,50.686 C 368.505,34.768 340.648,7.857 340.648,7.857 C 388.423,15.532 424.708,36.952 432.525,63.322 Z" stroke="none" fill="#2e3436" stroke-width="0.796" fill-rule="evenodd" stroke-linecap="round" marker-start="none" marker-end="none" stroke-miterlimit="79.8403193612775"/>
+      <path d="M 594.603,131.021 C 554.566,122.071 518.983,108.349 463.063,94.217 C 470.254,89.113 456.583,79.859 460.41,73.429 C 505.796,88.02 550.3,106.05 594.603,131.021 Z" stroke="none" fill="#2e3436" stroke-width="3.184" fill-rule="evenodd" stroke-linecap="round" marker-start="none" marker-end="none" stroke-miterlimit="79.8403193612775"/>
+     </g>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>
